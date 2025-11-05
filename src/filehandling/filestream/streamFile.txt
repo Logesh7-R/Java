@@ -1,0 +1,9 @@
+Hello, Stream class
+Hello, Stream class
+Hello, Stream class
+Hello, Stream class
+
+Written by FileOutputStream
+Written by FileOutputStream
+Written by FileOutputStream
+Written by FileOutputStream
